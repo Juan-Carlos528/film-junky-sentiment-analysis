@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+scikit-learn
+nltk
+jupyter
+ipykernel
+
+# Optional libraries for notebook experiments that must be reviewed before use:
+spacy
+lightgbm
+torch
+transformers
